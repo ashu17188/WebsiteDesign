@@ -1,0 +1,19 @@
+{
+  "name": "websitedesign",
+  "version": "1.0.0",
+  "description": "This project uses scss, html5, live server.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashu17188/WebsiteDesign.git"
+  },
+  "author": "Ashutosh Shukla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashu17188/WebsiteDesign/issues"
+  },
+  "homepage": "https://github.com/ashu17188/WebsiteDesign#readme"
+}
